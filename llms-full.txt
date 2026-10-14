@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 294 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 295 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -2088,6 +2088,17 @@ Analyze product analytics events and user behavior in Amplitude.
 - Provider: Amplitude
 - Official: yes
 - Tags: product-analytics, events, bi
+- Category: Data, Analytics, and BI
+
+### ats-jobs-mcp
+
+Zero-dependency stdio server and CLI that lists and filters a company's open jobs from its public Greenhouse, Lever or Ashby job board in one normalized shape, with no API keys.
+
+- URL: https://github.com/benkrasin/ats-jobs-mcp
+- Language: JavaScript
+- Provider: Community
+- Official: no
+- Tags: jobs, recruiting, greenhouse, lever, ashby
 - Category: Data, Analytics, and BI
 
 ### Basedash MCP Server

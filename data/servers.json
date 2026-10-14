@@ -2265,6 +2265,22 @@
     "official": true
   },
   {
+    "name": "ats-jobs-mcp",
+    "url": "https://github.com/benkrasin/ats-jobs-mcp",
+    "description": "Zero-dependency stdio server and CLI that lists and filters a company's open jobs from its public Greenhouse, Lever or Ashby job board in one normalized shape, with no API keys.",
+    "category": "data-analytics-and-bi",
+    "language": "JavaScript",
+    "provider": "Community",
+    "tags": [
+      "jobs",
+      "recruiting",
+      "greenhouse",
+      "lever",
+      "ashby"
+    ],
+    "official": false
+  },
+  {
     "name": "Universal Crypto MCP",
     "url": "https://github.com/nirholas/universal-crypto-mcp",
     "description": "MCP server for agents to work across Ethereum, Arbitrum, Base, Polygon and BNB Chain: swaps, bridges, gas, staking, lending and x402 payments.",
